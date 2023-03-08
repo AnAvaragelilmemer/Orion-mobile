@@ -5,3 +5,5 @@ remove your "local OrionLib = loadstring(game:HttpGet(('https://raw.githubuserco
 ```lua
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/AnAvaragelilmemer/Orion-mobile/main/source.lua"))()
 ```
+# 
+reminder that silders will not work
